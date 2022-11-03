@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/han-yurt-production/static/css/main.7de08f1b.css",
+    "main.js": "/han-yurt-production/static/js/main.bb1c3945.js",
+    "static/media/logo.png": "/han-yurt-production/static/media/logo.0c10c72231dbdac64f5d.png",
+    "static/media/sazova.jpg": "/han-yurt-production/static/media/sazova.1bec7b3ef571ac0ad4f4.jpg",
+    "static/media/1012-367x267.jpg": "/han-yurt-production/static/media/1012-367x267.b5bb4a96486682f713fc.jpg",
+    "static/media/1002-367x267 (1).jpg": "/han-yurt-production/static/media/1002-367x267 (1).abf71c542fec51c8bedd.jpg",
+    "static/media/1002-367x267.jpg": "/han-yurt-production/static/media/1002-367x267.abf71c542fec51c8bedd.jpg",
+    "static/media/10-367x267.jpg": "/han-yurt-production/static/media/10-367x267.8cf831b1ad444deb962e.jpg",
+    "static/media/0-367x267 (1).jpg": "/han-yurt-production/static/media/0-367x267 (1).9312833be484f8909a84.jpg",
+    "static/media/1010-367x267.jpg": "/han-yurt-production/static/media/1010-367x267.c26253d7178dd121cba5.jpg",
+    "static/media/1004-367x267.jpg": "/han-yurt-production/static/media/1004-367x267.cc8458972267eae9420f.jpg",
+    "static/media/1-367x267.jpg": "/han-yurt-production/static/media/1-367x267.cbda0128bca75cf63faf.jpg",
+    "static/media/1011-367x267.jpg": "/han-yurt-production/static/media/1011-367x267.8515762dcb12643fd79d.jpg",
+    "static/media/1006-367x267.jpg": "/han-yurt-production/static/media/1006-367x267.dba63a4081503a86f654.jpg",
+    "static/media/101-367x267.jpg": "/han-yurt-production/static/media/101-367x267.9a18ec28668e4f13de1a.jpg",
+    "static/media/1000-367x267 (1).jpg": "/han-yurt-production/static/media/1000-367x267 (1).54d0be44c6fa5a5c18e2.jpg",
+    "static/media/1000-367x267.jpg": "/han-yurt-production/static/media/1000-367x267.54d0be44c6fa5a5c18e2.jpg",
+    "static/media/1001-367x267 (1).jpg": "/han-yurt-production/static/media/1001-367x267 (1).b99b966a2e4895ef6ecf.jpg",
+    "static/media/1001-367x267.jpg": "/han-yurt-production/static/media/1001-367x267.b99b966a2e4895ef6ecf.jpg",
+    "static/media/1008-367x267.jpg": "/han-yurt-production/static/media/1008-367x267.63a30b7eaa5ad93533cd.jpg",
+    "static/media/100-367x267.jpg": "/han-yurt-production/static/media/100-367x267.e8ed95f929c7d9b011e0.jpg",
+    "static/media/1003-367x267.jpg": "/han-yurt-production/static/media/1003-367x267.21a133e489bd12ab7a0d.jpg",
+    "index.html": "/han-yurt-production/index.html",
+    "main.7de08f1b.css.map": "/han-yurt-production/static/css/main.7de08f1b.css.map",
+    "main.bb1c3945.js.map": "/han-yurt-production/static/js/main.bb1c3945.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7de08f1b.css",
+    "static/js/main.bb1c3945.js"
+  ]
+}
