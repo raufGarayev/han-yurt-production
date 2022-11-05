@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/han-yurt-production/static/css/main.7de08f1b.css",
-    "main.js": "/han-yurt-production/static/js/main.bb1c3945.js",
+    "main.js": "/han-yurt-production/static/js/main.ba8afa92.js",
     "static/media/logo.png": "/han-yurt-production/static/media/logo.0c10c72231dbdac64f5d.png",
     "static/media/sazova.jpg": "/han-yurt-production/static/media/sazova.1bec7b3ef571ac0ad4f4.jpg",
     "static/media/1012-367x267.jpg": "/han-yurt-production/static/media/1012-367x267.b5bb4a96486682f713fc.jpg",
@@ -24,10 +24,10 @@
     "static/media/1003-367x267.jpg": "/han-yurt-production/static/media/1003-367x267.21a133e489bd12ab7a0d.jpg",
     "index.html": "/han-yurt-production/index.html",
     "main.7de08f1b.css.map": "/han-yurt-production/static/css/main.7de08f1b.css.map",
-    "main.bb1c3945.js.map": "/han-yurt-production/static/js/main.bb1c3945.js.map"
+    "main.ba8afa92.js.map": "/han-yurt-production/static/js/main.ba8afa92.js.map"
   },
   "entrypoints": [
     "static/css/main.7de08f1b.css",
-    "static/js/main.bb1c3945.js"
+    "static/js/main.ba8afa92.js"
   ]
 }
