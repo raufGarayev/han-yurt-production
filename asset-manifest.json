@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/han-yurt-production/static/css/main.466e66aa.css",
-    "main.js": "/han-yurt-production/static/js/main.93f65126.js",
+    "main.css": "/han-yurt-production/static/css/main.37e925a1.css",
+    "main.js": "/han-yurt-production/static/js/main.c53ad923.js",
     "static/media/logo.png": "/han-yurt-production/static/media/logo.0c10c72231dbdac64f5d.png",
     "static/media/sazova.jpg": "/han-yurt-production/static/media/sazova.1bec7b3ef571ac0ad4f4.jpg",
     "static/media/1012-367x267.jpg": "/han-yurt-production/static/media/1012-367x267.b5bb4a96486682f713fc.jpg",
@@ -23,11 +23,11 @@
     "static/media/100-367x267.jpg": "/han-yurt-production/static/media/100-367x267.e8ed95f929c7d9b011e0.jpg",
     "static/media/1003-367x267.jpg": "/han-yurt-production/static/media/1003-367x267.21a133e489bd12ab7a0d.jpg",
     "index.html": "/han-yurt-production/index.html",
-    "main.466e66aa.css.map": "/han-yurt-production/static/css/main.466e66aa.css.map",
-    "main.93f65126.js.map": "/han-yurt-production/static/js/main.93f65126.js.map"
+    "main.37e925a1.css.map": "/han-yurt-production/static/css/main.37e925a1.css.map",
+    "main.c53ad923.js.map": "/han-yurt-production/static/js/main.c53ad923.js.map"
   },
   "entrypoints": [
-    "static/css/main.466e66aa.css",
-    "static/js/main.93f65126.js"
+    "static/css/main.37e925a1.css",
+    "static/js/main.c53ad923.js"
   ]
 }
